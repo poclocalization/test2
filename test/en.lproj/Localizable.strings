@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Noura Alhoshan on 14/06/2023.
+  
+*/
+
+"welcome_screen_title" = "Welcome123";
+"login_button" = "Log in";

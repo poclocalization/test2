@@ -9,8 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var hello: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        hello.text = String(localized: "welcome_screen_title")
         // Do any additional setup after loading the view.
     }
 
