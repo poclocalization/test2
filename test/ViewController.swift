@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         hello.text = String(localized: "welcome_screen_title")
+        //testing
         // Do any additional setup after loading the view.
     }
 
