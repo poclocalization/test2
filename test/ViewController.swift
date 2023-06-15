@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        hello.text = String(localized: "welcome_screen_title")
+        hello.text = String(localized: "test")
         //testing
         // Do any additional setup after loading the view.
     }
